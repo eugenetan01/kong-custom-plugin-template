@@ -1,5 +1,7 @@
 # Kong Custom Plugin
 
+** Note: This code is based on the blog [here](https://konghq.com/blog/engineering/custom-authentication-and-authorization-framework-with-kong)**
+
 ## Installing Custom Plugin - DB
 
 ```sh
